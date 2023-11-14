@@ -1,1 +1,1 @@
-# intent-identification-using-simpleRNN
+The objective of this classification task is to construct a machine learning model for intent identification using SimpleRNN. The aim is to develop a model that accurately predicts the intent behind user inputs by analyzing sequential patterns. The dataset selected for this task will serve as the foundation for training and evaluating the model's performance, ensuring its ability to effectively identify various intents based on input sequences.
